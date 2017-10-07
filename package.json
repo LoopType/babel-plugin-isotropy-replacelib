@@ -2,10 +2,10 @@
   "name": "babel-plugin-isotropy-replacelib",
   "description": "Babel plugin for transforming imports to server-deployable code",
   "version": "0.0.1",
-  "author": "Arivanandan<uarivanandan@gmail.com>",
+  "author": "Isotropy Team<isotropy@agilehead.com>",
   "contributors": [
-    "Jeswin Kumar<jeswinpk@agilehead.com>",
-    "Arivanandan<uarivanandan@gmail.com>"
+    "Arivanandan<uarivanandan@gmail.com>",
+    "Jeswin Kumar<jeswinpk@agilehead.com>"
   ],
   "main": "dist/transform-isotropy-imports.js",
   "scripts": {
